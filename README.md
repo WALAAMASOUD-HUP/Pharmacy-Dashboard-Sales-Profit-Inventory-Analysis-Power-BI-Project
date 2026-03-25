@@ -28,9 +28,14 @@ o	Provide a detailed table for operational follow-up.
 •	DAX measures for KPIs and YoY calculations
 •	Data visualization and dashboard design
 🔹 Outcome
-This dashboard provides a clear and comprehensive overview of pharmacy performance, helping stakeholders monitor profitability, manage inventory efficiently, and proactively track medication expiry risks through an interactive and easy-to-use analytical solution.
-https://github.com/user-attachments/assets/9041674e-2356-4853-a295-04d1bdce9b5e
 
+Dashboard :
+
+https://github.com/user-attachments/assets/44d24cff-d213-487f-b603-12c76d11d512
+
+This dashboard provides a clear and comprehensive overview of pharmacy performance, helping stakeholders monitor profitability, manage inventory efficiently, and proactively track medication expiry risks through an interactive and easy-to-use analytical solution.
+
+(https://app.powerbi.com/view?r=eyJrIjoiNDIwZjhkNDktMTkxYS00NmYyLWJhODctOGEzM2NmZjUzZTcxIiwidCI6ImUxOWY2ZjQyLTJhODQtNDhlZS04N2Y2LTUzNjQ5YzdhMzNhYSIsImMiOjl9)
 
 
 
